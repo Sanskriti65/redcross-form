@@ -1,0 +1,11 @@
+img{
+    width: 130px;
+    height: 130px;
+    padding: 10px;
+}
+.card{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
